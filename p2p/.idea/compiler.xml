@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="flightcheckin" />
+        <module name="guaranteedmessaging" />
+        <module name="jsmfundamentals" />
+        <module name="messagefiltering" />
+        <module name="p2p" />
+        <module name="pubsub" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
